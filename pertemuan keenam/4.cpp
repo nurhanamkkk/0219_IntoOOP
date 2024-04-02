@@ -11,4 +11,9 @@ struct mahasiswa {
     DetailAlamat alamat;
     int umur;
 };
-int maixx {}
+int main () {
+    mahasiswa mhs [3];
+    for (int i = 0; i < 3; i++) { 
+        cout << "nomr"
+    }
+}
