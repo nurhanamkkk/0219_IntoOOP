@@ -25,5 +25,8 @@ int main () {
     cin >> mhs.umur;
 
     cout <<endl;
+    cout <<  "\n nim :" << mhs.nim;
+    cout << "\n nama :" << mhs.nama;
+    cout << "\n alamac : "
 }
     
