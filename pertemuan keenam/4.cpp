@@ -31,7 +31,11 @@ int main () {
         cout << endl;
         cout << "data mahasiswa ke-" << (i=1) << ":" << endl;
         cout << "\n nim : " << mhs[i].nama;
-        cout << "\n nmamen"
+        cout << "\n nama : " << mhs[i].nama;
+        cout << "\n alamat : ";
+        cout << "\n\t desa : " << mhs[i].alamat.desa;
+        cout << "\n\t kota : " << mhs[i].alamat.kota;
+        cout << "\n mur"
        } 
     }
 }
