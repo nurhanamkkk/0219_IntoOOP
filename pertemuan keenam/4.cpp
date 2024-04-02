@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-struct DetailAlamat {
+struct DetailAlamat { 
     string desa;
     string kota;
 };
@@ -35,7 +35,8 @@ int main () {
         cout << "\n alamat : ";
         cout << "\n\t desa : " << mhs[i].alamat.desa;
         cout << "\n\t kota : " << mhs[i].alamat.kota;
-        cout << "\n mur"
+        cout << "\n umur : " << mhs[i].umur;
+        cout << endl; 
        } 
-    }
+    };
 }
