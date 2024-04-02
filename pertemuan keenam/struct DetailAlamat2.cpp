@@ -27,6 +27,8 @@ int main () {
     cout <<endl;
     cout <<  "\n nim :" << mhs.nim;
     cout << "\n nama :" << mhs.nama;
-    cout << "\n alamac : "
-}
+    cout << "\n alamat : ";
+    cout << "\n \t desa : " << mhs.alamat.desa;
+    cout << "\n umur : " << mhs.umur;
+};
     
