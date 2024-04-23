@@ -39,8 +39,8 @@ int main () {
     Mahasiswa mhs;
     Matakuliah mk;
 
-    mhs.nama = "Budi";
-    mhs.umur = 20;
+    mhs.nama = "Unung";
+    mhs.umur = 19;
     mhs.jurusan = "Teknik informatika";
     mhs.output();
 
