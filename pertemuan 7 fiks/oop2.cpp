@@ -11,14 +11,14 @@ class bangunDatar{
 
           void input() {  //methode input persegi panjang 
            
-           cout << "Masukan panjangnya = ";
+           cout << "Masukkan panjangnya = ";
            cin >> panjang;
            cout << "Masukkan Lebarnya = ";
            cin >> Lebar;
           }   
 
           float hitungluas (){
-              return panjang * Lebar;
+              returne panjang * Lebar;
           } 
 
           void display() {
