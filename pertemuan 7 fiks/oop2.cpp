@@ -3,7 +3,7 @@ using namespace std;
 
 class bangunDatar{
      
-     //akses modifir
+     //akses modifier
      private:
          float panjang, Lebar;
      public:
