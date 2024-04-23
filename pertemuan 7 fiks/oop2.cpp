@@ -29,7 +29,7 @@ class bangunDatar{
 };
 
 int main () {
-    bangunDatar pp; // deka objek pp dari bangunDatar
+    bangunDatar pp; // dekalarasi ojek pp dari bangunDatar
     pp.input();
     pp.display();
 
