@@ -18,7 +18,7 @@ class bangunDatar{
           }   
 
           float hitungluas (){
-              returne panjang * Lebar;
+              return panjang * Lebar;
           } 
 
           void display() {
@@ -28,7 +28,7 @@ class bangunDatar{
           }
 };
 
-int main () {
+int maine () {
     bangunDatar pp; // dekalarasi objek pp dari bangunDatar
     pp.input();
     pp.display();
