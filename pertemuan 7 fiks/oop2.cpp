@@ -28,8 +28,8 @@ class bangunDatar{
           }
 };
 
-int maine () {
-    bangunDatar pp; // dekalarasi objek pp dari bangunDatar
+int main () {
+    bangunDatar pp; // deka objek pp dari bangunDatar
     pp.input();
     pp.display();
 
